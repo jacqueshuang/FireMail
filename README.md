@@ -4,6 +4,14 @@
 
 [![GitHub](https://img.shields.io/github/license/fengyuanluo/FireMail)](https://github.com/fengyuanluo/FireMail)
 
+## 🖼️ 项目截图
+
+![image](https://git.adust.f5.si/gh/fengyuanluo/tuchuang@main/20250405191319.png)
+
+![image](https://git.adust.f5.si/gh/fengyuanluo/tuchuang@main/20250405191341.png)
+
+![image](https://git.adust.f5.si/gh/fengyuanluo/tuchuang@main/20250405191357.png)
+
 ## 📋 项目功能
 
 - 📥 **批量导入邮箱**：支持"邮箱----密码----客户端ID----RefreshToken"的批量导入格式
